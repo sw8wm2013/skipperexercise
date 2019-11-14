@@ -1,9 +1,0 @@
-node_modules/
-.DS_Store
-.vscode/
-.env
-delete.js
-iterate.js
-robots.txt
-manifest.json
-yarn.lock
